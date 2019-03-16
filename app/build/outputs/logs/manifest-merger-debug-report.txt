@@ -1,0 +1,211 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:design:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/487f7303ff84a306ce99b889bcba1c47/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d4344002074f58b07261afcf541626c0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/jangre/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c590080688db2e43ba8c79fa373d63c0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/0340eb641b3c5204435ee98e888664b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/f7b9d1b553e6a62e04ff0b157d2c44d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/9619d5fc946a0cabeeb17c3d093e066f/AndroidManifest.xml:2:1-13:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/91951f84d65b7ddec854ca2535244bb4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.5.0.aar/550a86beaed97d73c8fa0bca7e145a10/AndroidManifest.xml:17:1-55:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b6c17d071c813062a705dedbcce4e8aa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/66c17ec3a80339528a09fd21fd177bda/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/496015eb0d8597cdbad88805e95c3f05/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/a18e1288a56354c8395cd421e4eab042/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/6d4bf2898433d997e2a50853e1e08ae7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8ca72f4be4f33176024b647fad65ce74/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/36397d89e807ca0dc4372bdc6b960380/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/7b0e5acaeab9446e01dd3d5ae7f73a4d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/799dbc2b8af6c6c1592729c417502550/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/4eb1b568c15a4fcc92800dc076774d6a/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/96bbfeafea6cbcd42bf998ad584d55d7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fef3418e3eb6af6c1ccc80a7bf5b595f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7d1ac489cb42ffd16b624e0bb6352fac/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/f8944cc22a94faa5ac2ca7b1dfc188e6/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:3:11-51
+		INJECTED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:4:2-64
+	android:name
+		ADDED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:4:19-61
+application
+ADDED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:5:2-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/jangre/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c590080688db2e43ba8c79fa373d63c0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/jangre/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c590080688db2e43ba8c79fa373d63c0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/9619d5fc946a0cabeeb17c3d093e066f/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/9619d5fc946a0cabeeb17c3d093e066f/AndroidManifest.xml:11:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/91951f84d65b7ddec854ca2535244bb4/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/91951f84d65b7ddec854ca2535244bb4/AndroidManifest.xml:9:5-20
+MERGED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.5.0.aar/550a86beaed97d73c8fa0bca7e145a10/AndroidManifest.xml:45:5-53:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.5.0.aar/550a86beaed97d73c8fa0bca7e145a10/AndroidManifest.xml:45:5-53:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/4eb1b568c15a4fcc92800dc076774d6a/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/4eb1b568c15a4fcc92800dc076774d6a/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:10:4-30
+	android:label
+		ADDED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:8:4-36
+	android:roundIcon
+		ADDED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:9:4-49
+	android:icon
+		ADDED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:7:4-38
+	android:allowBackup
+		ADDED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:6:4-30
+	android:theme
+		ADDED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:11:4-43
+activity#com.example.jangre.barcodehelp.Activity.SplashscreenActivity
+ADDED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:13:3-18:14
+	android:name
+		ADDED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:13:13-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:14:4-17:20
+action#android.intent.action.MAIN
+ADDED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:15:5-56
+	android:name
+		ADDED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:15:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:16:5-64
+	android:name
+		ADDED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:16:15-62
+activity#com.example.jangre.barcodehelp.Activity.MainActivity
+ADDED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:19:3-20:14
+	android:name
+		ADDED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:19:13-50
+activity#com.example.jangre.barcodehelp.Activity.RegistrationActivity
+ADDED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:21:3-22:14
+	android:name
+		ADDED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:21:13-58
+activity#com.example.jangre.barcodehelp.Finish
+ADDED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:23:3-24:14
+	android:name
+		ADDED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml:23:13-35
+uses-sdk
+INJECTED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/487f7303ff84a306ce99b889bcba1c47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/487f7303ff84a306ce99b889bcba1c47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d4344002074f58b07261afcf541626c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d4344002074f58b07261afcf541626c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/jangre/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c590080688db2e43ba8c79fa373d63c0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/jangre/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c590080688db2e43ba8c79fa373d63c0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/0340eb641b3c5204435ee98e888664b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/0340eb641b3c5204435ee98e888664b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/f7b9d1b553e6a62e04ff0b157d2c44d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/f7b9d1b553e6a62e04ff0b157d2c44d6/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/9619d5fc946a0cabeeb17c3d093e066f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/9619d5fc946a0cabeeb17c3d093e066f/AndroidManifest.xml:7:5-9:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/91951f84d65b7ddec854ca2535244bb4/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/91951f84d65b7ddec854ca2535244bb4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.5.0.aar/550a86beaed97d73c8fa0bca7e145a10/AndroidManifest.xml:19:5-43
+MERGED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.5.0.aar/550a86beaed97d73c8fa0bca7e145a10/AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b6c17d071c813062a705dedbcce4e8aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b6c17d071c813062a705dedbcce4e8aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/66c17ec3a80339528a09fd21fd177bda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/66c17ec3a80339528a09fd21fd177bda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/496015eb0d8597cdbad88805e95c3f05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/496015eb0d8597cdbad88805e95c3f05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/a18e1288a56354c8395cd421e4eab042/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/a18e1288a56354c8395cd421e4eab042/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/6d4bf2898433d997e2a50853e1e08ae7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/6d4bf2898433d997e2a50853e1e08ae7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8ca72f4be4f33176024b647fad65ce74/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8ca72f4be4f33176024b647fad65ce74/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/36397d89e807ca0dc4372bdc6b960380/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/36397d89e807ca0dc4372bdc6b960380/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/7b0e5acaeab9446e01dd3d5ae7f73a4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/7b0e5acaeab9446e01dd3d5ae7f73a4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/799dbc2b8af6c6c1592729c417502550/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/799dbc2b8af6c6c1592729c417502550/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/4eb1b568c15a4fcc92800dc076774d6a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /Users/jangre/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/4eb1b568c15a4fcc92800dc076774d6a/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/96bbfeafea6cbcd42bf998ad584d55d7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/96bbfeafea6cbcd42bf998ad584d55d7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fef3418e3eb6af6c1ccc80a7bf5b595f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fef3418e3eb6af6c1ccc80a7bf5b595f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7d1ac489cb42ffd16b624e0bb6352fac/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7d1ac489cb42ffd16b624e0bb6352fac/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/f8944cc22a94faa5ac2ca7b1dfc188e6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/f8944cc22a94faa5ac2ca7b1dfc188e6/AndroidManifest.xml:20:5-44
+INJECTED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jangre/AndroidStudioProjects/barcodeHelp/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.5.0.aar/550a86beaed97d73c8fa0bca7e145a10/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.5.0.aar/550a86beaed97d73c8fa0bca7e145a10/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.5.0.aar/550a86beaed97d73c8fa0bca7e145a10/AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.5.0.aar/550a86beaed97d73c8fa0bca7e145a10/AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.5.0.aar/550a86beaed97d73c8fa0bca7e145a10/AndroidManifest.xml:25:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.5.0.aar/550a86beaed97d73c8fa0bca7e145a10/AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.5.0.aar/550a86beaed97d73c8fa0bca7e145a10/AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.5.0.aar/550a86beaed97d73c8fa0bca7e145a10/AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.5.0.aar/550a86beaed97d73c8fa0bca7e145a10/AndroidManifest.xml:32:5-34:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.5.0.aar/550a86beaed97d73c8fa0bca7e145a10/AndroidManifest.xml:34:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.5.0.aar/550a86beaed97d73c8fa0bca7e145a10/AndroidManifest.xml:33:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.5.0.aar/550a86beaed97d73c8fa0bca7e145a10/AndroidManifest.xml:35:5-37:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.5.0.aar/550a86beaed97d73c8fa0bca7e145a10/AndroidManifest.xml:37:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.5.0.aar/550a86beaed97d73c8fa0bca7e145a10/AndroidManifest.xml:36:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.5.0.aar/550a86beaed97d73c8fa0bca7e145a10/AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.5.0.aar/550a86beaed97d73c8fa0bca7e145a10/AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.5.0.aar/550a86beaed97d73c8fa0bca7e145a10/AndroidManifest.xml:39:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.5.0.aar/550a86beaed97d73c8fa0bca7e145a10/AndroidManifest.xml:41:5-43:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.5.0.aar/550a86beaed97d73c8fa0bca7e145a10/AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.5.0.aar/550a86beaed97d73c8fa0bca7e145a10/AndroidManifest.xml:42:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.5.0.aar/550a86beaed97d73c8fa0bca7e145a10/AndroidManifest.xml:46:9-52:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.5.0.aar/550a86beaed97d73c8fa0bca7e145a10/AndroidManifest.xml:49:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.5.0.aar/550a86beaed97d73c8fa0bca7e145a10/AndroidManifest.xml:48:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.5.0.aar/550a86beaed97d73c8fa0bca7e145a10/AndroidManifest.xml:50:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.5.0.aar/550a86beaed97d73c8fa0bca7e145a10/AndroidManifest.xml:52:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.5.0.aar/550a86beaed97d73c8fa0bca7e145a10/AndroidManifest.xml:51:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/jangre/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.5.0.aar/550a86beaed97d73c8fa0bca7e145a10/AndroidManifest.xml:47:13-74

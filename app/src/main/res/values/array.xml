@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="food">
+        <item>육류</item>
+        <item>채소류</item>
+        <item>유제품류</item>
+        <item>냉동식품</item>
+        <item>해산물</item>
+        <item>계란</item>
+        <item>기타</item>
+    </string-array>
+</resources>
